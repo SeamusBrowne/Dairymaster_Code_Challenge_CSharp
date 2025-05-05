@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TVdFY3BGTSP4rnHfxIpRyPOsbOYtgYksy9Jnt+xie24=",
+  "Source": "BookWebApi",
+  "BasePath": "_content/BookWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

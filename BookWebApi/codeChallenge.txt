@@ -1,0 +1,33 @@
+Challenge: Build a SIMPLE, RESTful WebApi in .Net that works with books
+These are fake, imaginary books for the purpose of this code challenge.
+
+A Book should have:
+- Title
+- Publication Status (Planned or Published)
+- Publication Date
+The requirements are:
+- Create a book
+ - Set the publication status to Planned
+- Publish a book
+ - Set the publication status to Published
+ - Set the publication date
+- List all created books with their publication statuses
+Optional extra:
+- Write integration tests using the WebApplicationFactory:
+ - [Learn more](https://learn.microsoft.com/en-us/aspnet/core/test/integration-
+tests?view=aspnetcore-9.0)
+
+Instructions:
+- Upload your solution to a git repository and send a link to the repository. We must be
+able to view the code.
+- Read the requirements carefully.
+- You can use Minimal APIs or Controllers, whichever you are more comfortable with:
+ - [Learn more](https://learn.microsoft.com/en-
+us/aspnet/core/fundamentals/apis?view=aspnetcore-9.0)
+- Use any persistence strategy you like (including in-memory).
+- Use any IDE you like.
+- The .Net version should be .Net8 or above, but use any if this is an issue.
+- Structure your code how you best see fit for the above requirements.
+- Clearly state your assumptions and note any ambiguity and how you addressed it.
+- You can include a Readme file in the repository which contains your assumptions
+and addressed ambiguities.
