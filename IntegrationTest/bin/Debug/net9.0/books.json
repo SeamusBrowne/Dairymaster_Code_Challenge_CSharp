@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Title": "Lure of Silence",
+    "PubStatus": "Published",
+    "PubDate": "1960-01-01"
+  },
+  {
+    "Id": 2,
+    "Title": "War of the Rose",
+    "PubStatus": "Published",
+    "PubDate": "2023-11-27"
+  },
+  {
+    "Id": 3,
+    "Title": "Rally of the Lakes Magazine",
+    "PubStatus": "Published",
+    "PubDate": "2025-05-01"
+  },
+  {
+    "Id": 4,
+    "Title": "The Copper Man",
+    "PubStatus": "Published",
+    "PubDate": "2025-05-06"
+  },
+  {
+    "Id": 5,
+    "Title": "The Wanderer",
+    "PubStatus": "Published",
+    "PubDate": "2025-05-06"
+  },
+  {
+    "Id": 6,
+    "Title": "Title Test",
+    "PubStatus": "Planned",
+    "PubDate": ""
+  }
+]
